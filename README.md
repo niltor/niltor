@@ -1,16 +1,27 @@
-### Hi there 👋
+# 👋About me 
+Morality is for restraining oneself, not for blaming others！
 
-<!--
-**niltor/niltor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Evil has always existed, freedom and peace must be defended and fought for, not surrendered!
 
-Here are some ideas to get you started:
+## GitHub Info
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niltor&show_icons=true&theme=dark" alt="niltor" />
+<div/>
+  
+## What I believe
+- 💪 I believe in freedom
+- 💪 I believe in logic
+- 💪 I believe in the facts
+- 💪 I believe in justice
+- 💪 I believe in kindness
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I don't believe
+- 👎 Create something out of nothing
+- 👎 Dictatorship
+
+
+## Language
+ <div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=niltor&layout=compact&hide=html&theme=dark" alt="niltor" />
+</div>
+  
