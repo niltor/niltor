@@ -1,5 +1,5 @@
 # 👋About me 
-Morality is for restraining oneself, not for blaming others！
+**Resolutely eradicate the anti-human regimes that create and spread viruses!**
 
 Evil has always existed, freedom and peace must be defended and fought for, not surrendered!
 
