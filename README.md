@@ -3,6 +3,8 @@
 
 Evil has always existed, freedom and peace must be defended and fought for, not surrendered!
 
+Currently focusing on using Cloud-Native technologies such as .NET Aspire, Radius, Dapr and so on to improve development and delivery efficiency.
+
 ## Job
 
 **I'm looking for a full-time development job in Singapore or Taiwan！**
