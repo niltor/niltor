@@ -3,6 +3,8 @@
 
 Evil has always existed, freedom and peace must be defended and fought for, not surrendered!
 
+**I'm looking for a full-time development job in Singapore or Taiwan！**
+
 ## GitHub Info
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=niltor&show_icons=true&theme=dark" alt="niltor" />
