@@ -3,7 +3,16 @@
 
 Evil has always existed, freedom and peace must be defended and fought for, not surrendered!
 
+## Job
+
 **I'm looking for a full-time development job in Singapore or Taiwan！**
+
+What I have:
+- 10 years of technology development experience
+- Rich ASP.NET Core development experience
+- 5+ years of experience in development team management and project delivery
+- Focus on development efficiency and business value realization
+
 
 ## GitHub Info
 <div>
