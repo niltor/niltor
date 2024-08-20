@@ -30,7 +30,7 @@ What I have:
 ## What I don't believe
 - 👎 Create something out of nothing
 - 👎 Dictatorship
-- 👎 Communism
+- 👎 Fake Communism
 
 ## Language
  <div>
