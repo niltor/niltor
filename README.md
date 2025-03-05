@@ -2,14 +2,17 @@
 
 I would rather have imperfections in the sun than perfection in the dark！
 
-Currently focusing on using **Cloud-Native technologies such as .NET Aspire, Dapr, AI** and so on to improve development and delivery efficiency.
+
+Good at .NET B/S related technology stack, focusing on .Net Aspire/AI and other directions
+
+Focus on collaboration efficiency in the team and improve development experience
 
 ## Job
 
-**I'm looking for a remote development job in Free World!**
+**I will accept remote work, such as technical consultant, project management and development positions**
 
 What I have:
-- 10 years of technology development experience
+- 10 years of software development experience
 - Rich ASP.NET Core development experience
 - 5+ years of experience in development team management and project delivery
 - Focus on development efficiency and business value realization
