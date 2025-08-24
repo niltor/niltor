@@ -19,7 +19,7 @@ Focus on collaboration efficiency in the team and improve development experience
 😄 Real Good things:
 - Git
 - GitHub
-- VSCode
+- VisualStudio(&Code)
 - CSharp
 
 😡 Real Sucks things: 
