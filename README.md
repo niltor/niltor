@@ -2,21 +2,31 @@
 
 I would rather have imperfections in the sun than perfection in the dark！
 
-
 Good at .NET B/S related technology stack, focusing on .Net Aspire/AI and other directions
 
 Focus on collaboration efficiency in the team and improve development experience
 
-## Job
+## Cooperate
 
-**I will accept remote work, such as technical consultant, project management and development positions**
+**We're open to discussing your needs.**
 
-What I have:
-- 10 years of software development experience
-- Rich ASP.NET Core development experience
-- 5+ years of experience in development team management and project delivery
-- Focus on development efficiency and business value realization
+- Technical consulting, architecture design, .NET programming
+- Startup technical team consulting, interviews
+- Looking for innovative future projects
 
+## Preference
+
+😄 Real Good things:
+- Git
+- GitHub
+- VSCode
+- CSharp
+
+😡 Real Sucks things: 
+- YAML
+- OpenApi Spec
+- ObjectC
+- Java
 
 ## GitHub Info
 <div>
