@@ -21,17 +21,6 @@ Focus on collaboration efficiency in the team and improve development experience
 - GitHub
 - VisualStudio(&Code)
 - CSharp
-
-😡 Real Sucks things: 
-- YAML
-- OpenApi Spec
-- ObjectC
-- Java
-
-## GitHub Info
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=niltor&show_icons=true&theme=dark" alt="niltor" />
-<div/>
   
 ## What I believe
 - 💪 I believe in freedom
